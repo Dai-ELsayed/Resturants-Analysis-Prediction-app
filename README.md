@@ -51,7 +51,7 @@ Performance Metrics: Ratings, votes
 
 Service Types: Delivery, Dine-out, Cafes, etc.
 
-🤖 Machine Learning Models
+##  Models
 Architecture
 
 Traditional ML: Random Forest / XGBoost
@@ -67,6 +67,8 @@ Poor: 0 – 2.5
 Good: 2.5 – 4.0
 
 Excellent: 4.0 – 5.0
+
+##
 
  ### 📁 Project Structure
 📂 zomato_resturants_Analysis & Prediction/
