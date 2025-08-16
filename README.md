@@ -69,6 +69,7 @@ Good: 2.5 – 4.0
 Excellent: 4.0 – 5.0
 
 ##
+```bash
 
  ### 📁 Project Structure
 📂 zomato_resturants_Analysis & Prediction/
@@ -88,5 +89,10 @@ Excellent: 4.0 – 5.0
 │
 ├── 📂 data/
 │ └── zomato_sample.csv
+
+---
+
+
+```
 
 
