@@ -72,7 +72,7 @@ Excellent: 4.0 – 5.0
 ```bash
 
  ### 📁 Project Structure
-📂 zomato_resturants_Analysis & Prediction/
+📂 Resturants-Analysis-Prediction-app/
 │── 📄 app.py
 │── 📄 requirements.txt
 │── 📄 README.md
