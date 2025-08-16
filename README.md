@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Rating Prediction Web App  
+# 🍽️ Resturants-Analysis-Prediction-app 
 
 A machine learning web application that analyzes restaurant data and predicts ratings with **interactive visualizations** and **real-time predictions**.  
 
