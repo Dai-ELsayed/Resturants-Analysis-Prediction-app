@@ -27,8 +27,8 @@ A machine learning web application that analyzes restaurant data and predicts ra
 
 ### Run Locally  
 ```bash
-git clone https://github.com/Dai-ELsayed/resturants-Analysis-Prediction-app.git
-cd zomato_resturants_Analysis & Prediction
+git clone https://github.com/Dai-ELsayed/Resturants-Analysis-Prediction-app.git
+cd Resturants-Analysis-Prediction-app
 pip install -r requirements.txt
 streamlit run app.py
 
